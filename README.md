@@ -19,14 +19,14 @@ You can migrate all the changes in contracts using `truffle migrate --reset` <br
 
 ### Learn More
 
-[VueJS documentation](https://vuejs.org/guide/introduction.html)
+-> [VueJS documentation](https://vuejs.org/guide/introduction.html)
 
-Install [ganache](https://trufflesuite.com/ganache/)
+-> Install [Ganache](https://trufflesuite.com/ganache/)
 
-Install [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn/related)
+-> Install [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn/related)
 
-[How to add loacl Ganache RPC servers to MetaMask](https://youtu.be/lv4HEyiw4EQ)
+-> [How to add loacl Ganache RPC servers to MetaMask](https://youtu.be/lv4HEyiw4EQ)
 
-Where to start learning BlockChain? A great [playlist]( https://youtube.com/playlist?list=PLY3JotXmKSgEDVwtN-pxHYA0g3F9Wrq-b) on BlockChain.
+-> Where to start learning BlockChain? A great [playlist]( https://youtube.com/playlist?list=PLY3JotXmKSgEDVwtN-pxHYA0g3F9Wrq-b) on BlockChain.
 
 
