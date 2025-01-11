@@ -25,7 +25,7 @@ You can migrate all the changes in contracts using `truffle migrate --reset` <br
 
 -> Install [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn/related)
 
--> [How to add loacl Ganache RPC servers to MetaMask](https://youtu.be/lv4HEyiw4EQ)
+-> [How to add local Ganache RPC servers to MetaMask](https://youtu.be/lv4HEyiw4EQ)
 
 -> Where to start learning BlockChain? A great [playlist]( https://youtube.com/playlist?list=PLY3JotXmKSgEDVwtN-pxHYA0g3F9Wrq-b) on BlockChain.
 
